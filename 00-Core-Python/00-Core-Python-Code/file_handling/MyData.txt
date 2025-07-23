@@ -1,0 +1,3 @@
+Hello from write mode!
+Line 2.
+This line was appended.

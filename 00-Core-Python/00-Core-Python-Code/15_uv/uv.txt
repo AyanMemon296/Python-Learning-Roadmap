@@ -1,0 +1,7 @@
+pip install uv
+
+uv init folder-name(uv_testing)
+
+go in that folder/directory
+
+uv run main.py
